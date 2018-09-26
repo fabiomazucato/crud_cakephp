@@ -3,7 +3,7 @@
         <div class="col s12 m4 login-inner z-depth-1">
             <div class="login-inner-title row text-center">
                 <h3>Aplicação de Avaliação</h3>
-                <small>CRUD básico em PHP usando CakePHP e Boostrap. Para email use (master@master.com) e senha use(master) </small>
+                <small>CRUD básico em PHP usando CakePHP e Boostrap. Use para email (master@master.com) e senha (master) </small>
             </div>
             <div class="col s12 m12">
                 <form action="./login" method="post">
