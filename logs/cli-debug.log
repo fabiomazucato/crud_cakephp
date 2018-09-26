@@ -1,0 +1,132 @@
+2018-07-19 17:52:36 Notice: Notice (8): Undefined index: People in [F:\www\aguaparatodos\vendor\cakephp\bake\src\View\Helper\DocBlockHelper.php, line 238]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 153
+Bake\View\Helper\DocBlockHelper::buildTableAnnotations() - ROOT\vendor\cakephp\bake\src\View\Helper\DocBlockHelper.php, line 238
+Twig_Template::getAttribute() - ROOT\vendor\twig\twig\lib\Twig\Template.php, line 679
+__TwigTemplate_e5d92bf55e8912daa54081a14a1cca1c1347e47c8a4942ef94af8800eb3bb3df::doDisplay() - ROOT\tmp\cache\twigView\c8\c88d4a7a6db3da867a2a171852c77c8c84a1cc226bc4b5a82e7f2082ca9d9318.php, line 22
+Twig_Template::displayWithErrorHandling() - ROOT\vendor\twig\twig\lib\Twig\Template.php, line 432
+Twig_Template::display() - ROOT\vendor\twig\twig\lib\Twig\Template.php, line 403
+Twig_Template::render() - ROOT\vendor\twig\twig\lib\Twig\Template.php, line 411
+WyriHaximus\TwigView\View\TwigView::_render() - ROOT\vendor\wyrihaximus\twig-view\src\View\TwigView.php, line 180
+Bake\View\BakeView::render() - ROOT\vendor\cakephp\bake\src\View\BakeView.php, line 146
+Bake\Shell\Task\BakeTemplateTask::generate() - ROOT\vendor\cakephp\bake\src\Shell\Task\BakeTemplateTask.php, line 89
+Bake\Shell\Task\ModelTask::bakeTable() - ROOT\vendor\cakephp\bake\src\Shell\Task\ModelTask.php, line 956
+Bake\Shell\Task\ModelTask::bake() - ROOT\vendor\cakephp\bake\src\Shell\Task\ModelTask.php, line 114
+Bake\Shell\Task\ModelTask::main() - ROOT\vendor\cakephp\bake\src\Shell\Task\ModelTask.php, line 100
+Cake\Console\Shell::runCommand() - CORE\src\Console\Shell.php, line 507
+Cake\Console\Shell::runCommand() - CORE\src\Console\Shell.php, line 500
+Cake\Console\CommandRunner::run() - CORE\src\Console\CommandRunner.php, line 141
+[main] - ROOT\bin\cake.php, line 12
+
+
+
+2018-07-19 17:52:36 Notice: Notice (8): Undefined index: Profiles in [F:\www\aguaparatodos\vendor\cakephp\bake\src\View\Helper\DocBlockHelper.php, line 238]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 153
+Bake\View\Helper\DocBlockHelper::buildTableAnnotations() - ROOT\vendor\cakephp\bake\src\View\Helper\DocBlockHelper.php, line 238
+Twig_Template::getAttribute() - ROOT\vendor\twig\twig\lib\Twig\Template.php, line 679
+__TwigTemplate_e5d92bf55e8912daa54081a14a1cca1c1347e47c8a4942ef94af8800eb3bb3df::doDisplay() - ROOT\tmp\cache\twigView\c8\c88d4a7a6db3da867a2a171852c77c8c84a1cc226bc4b5a82e7f2082ca9d9318.php, line 22
+Twig_Template::displayWithErrorHandling() - ROOT\vendor\twig\twig\lib\Twig\Template.php, line 432
+Twig_Template::display() - ROOT\vendor\twig\twig\lib\Twig\Template.php, line 403
+Twig_Template::render() - ROOT\vendor\twig\twig\lib\Twig\Template.php, line 411
+WyriHaximus\TwigView\View\TwigView::_render() - ROOT\vendor\wyrihaximus\twig-view\src\View\TwigView.php, line 180
+Bake\View\BakeView::render() - ROOT\vendor\cakephp\bake\src\View\BakeView.php, line 146
+Bake\Shell\Task\BakeTemplateTask::generate() - ROOT\vendor\cakephp\bake\src\Shell\Task\BakeTemplateTask.php, line 89
+Bake\Shell\Task\ModelTask::bakeTable() - ROOT\vendor\cakephp\bake\src\Shell\Task\ModelTask.php, line 956
+Bake\Shell\Task\ModelTask::bake() - ROOT\vendor\cakephp\bake\src\Shell\Task\ModelTask.php, line 114
+Bake\Shell\Task\ModelTask::main() - ROOT\vendor\cakephp\bake\src\Shell\Task\ModelTask.php, line 100
+Cake\Console\Shell::runCommand() - CORE\src\Console\Shell.php, line 507
+Cake\Console\Shell::runCommand() - CORE\src\Console\Shell.php, line 500
+Cake\Console\CommandRunner::run() - CORE\src\Console\CommandRunner.php, line 141
+[main] - ROOT\bin\cake.php, line 12
+
+
+
+2018-08-03 13:56:37 Notice: Notice (8): Undefined index: KindPeople in [F:\www\aguaparatodos\vendor\cakephp\bake\src\View\Helper\DocBlockHelper.php, line 238]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 153
+Bake\View\Helper\DocBlockHelper::buildTableAnnotations() - ROOT\vendor\cakephp\bake\src\View\Helper\DocBlockHelper.php, line 238
+Twig_Template::getAttribute() - ROOT\vendor\twig\twig\lib\Twig\Template.php, line 679
+__TwigTemplate_e5d92bf55e8912daa54081a14a1cca1c1347e47c8a4942ef94af8800eb3bb3df::doDisplay() - ROOT\tmp\cache\twigView\c8\c88d4a7a6db3da867a2a171852c77c8c84a1cc226bc4b5a82e7f2082ca9d9318.php, line 22
+Twig_Template::displayWithErrorHandling() - ROOT\vendor\twig\twig\lib\Twig\Template.php, line 432
+Twig_Template::display() - ROOT\vendor\twig\twig\lib\Twig\Template.php, line 403
+Twig_Template::render() - ROOT\vendor\twig\twig\lib\Twig\Template.php, line 411
+WyriHaximus\TwigView\View\TwigView::_render() - ROOT\vendor\wyrihaximus\twig-view\src\View\TwigView.php, line 180
+Bake\View\BakeView::render() - ROOT\vendor\cakephp\bake\src\View\BakeView.php, line 146
+Bake\Shell\Task\BakeTemplateTask::generate() - ROOT\vendor\cakephp\bake\src\Shell\Task\BakeTemplateTask.php, line 89
+Bake\Shell\Task\ModelTask::bakeTable() - ROOT\vendor\cakephp\bake\src\Shell\Task\ModelTask.php, line 956
+Bake\Shell\Task\ModelTask::bake() - ROOT\vendor\cakephp\bake\src\Shell\Task\ModelTask.php, line 114
+Bake\Shell\Task\ModelTask::main() - ROOT\vendor\cakephp\bake\src\Shell\Task\ModelTask.php, line 100
+Cake\Console\Shell::runCommand() - CORE\src\Console\Shell.php, line 507
+Cake\Console\Shell::runCommand() - CORE\src\Console\Shell.php, line 500
+Cake\Console\CommandRunner::run() - CORE\src\Console\CommandRunner.php, line 141
+[main] - ROOT\bin\cake.php, line 12
+
+
+
+2018-08-03 14:15:36 Notice: Notice (8): Undefined index: KindsPeople in [F:\www\aguaparatodos\vendor\cakephp\bake\src\View\Helper\DocBlockHelper.php, line 238]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 153
+Bake\View\Helper\DocBlockHelper::buildTableAnnotations() - ROOT\vendor\cakephp\bake\src\View\Helper\DocBlockHelper.php, line 238
+Twig_Template::getAttribute() - ROOT\vendor\twig\twig\lib\Twig\Template.php, line 679
+__TwigTemplate_e5d92bf55e8912daa54081a14a1cca1c1347e47c8a4942ef94af8800eb3bb3df::doDisplay() - ROOT\tmp\cache\twigView\c8\c88d4a7a6db3da867a2a171852c77c8c84a1cc226bc4b5a82e7f2082ca9d9318.php, line 22
+Twig_Template::displayWithErrorHandling() - ROOT\vendor\twig\twig\lib\Twig\Template.php, line 432
+Twig_Template::display() - ROOT\vendor\twig\twig\lib\Twig\Template.php, line 403
+Twig_Template::render() - ROOT\vendor\twig\twig\lib\Twig\Template.php, line 411
+WyriHaximus\TwigView\View\TwigView::_render() - ROOT\vendor\wyrihaximus\twig-view\src\View\TwigView.php, line 180
+Bake\View\BakeView::render() - ROOT\vendor\cakephp\bake\src\View\BakeView.php, line 146
+Bake\Shell\Task\BakeTemplateTask::generate() - ROOT\vendor\cakephp\bake\src\Shell\Task\BakeTemplateTask.php, line 89
+Bake\Shell\Task\ModelTask::bakeTable() - ROOT\vendor\cakephp\bake\src\Shell\Task\ModelTask.php, line 956
+Bake\Shell\Task\ModelTask::bake() - ROOT\vendor\cakephp\bake\src\Shell\Task\ModelTask.php, line 114
+Bake\Shell\Task\ModelTask::main() - ROOT\vendor\cakephp\bake\src\Shell\Task\ModelTask.php, line 100
+Cake\Console\Shell::runCommand() - CORE\src\Console\Shell.php, line 507
+Cake\Console\Shell::runCommand() - CORE\src\Console\Shell.php, line 500
+Cake\Console\CommandRunner::run() - CORE\src\Console\CommandRunner.php, line 141
+[main] - ROOT\bin\cake.php, line 12
+
+
+
+2018-08-24 18:13:18 Notice: Notice (8): Undefined index: Organs in [F:\www\aguaparatodos\vendor\cakephp\bake\src\View\Helper\DocBlockHelper.php, line 238]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 153
+Bake\View\Helper\DocBlockHelper::buildTableAnnotations() - ROOT\vendor\cakephp\bake\src\View\Helper\DocBlockHelper.php, line 238
+Twig_Template::getAttribute() - ROOT\vendor\twig\twig\lib\Twig\Template.php, line 679
+__TwigTemplate_530d3675ab6ce404acc3a2b19b907e117c9b0fb3331db85cec4b56ec1471f27b::doDisplay() - ROOT\tmp\cache\twigView\fe\fe343130225d4161df2ac3cdf0679656594da7b6abd2b4383bf9fcf26ba1f8d8.php, line 19
+Twig_Template::displayWithErrorHandling() - ROOT\vendor\twig\twig\lib\Twig\Template.php, line 432
+Twig_Template::display() - ROOT\vendor\twig\twig\lib\Twig\Template.php, line 403
+Twig_Template::render() - ROOT\vendor\twig\twig\lib\Twig\Template.php, line 411
+WyriHaximus\TwigView\View\TwigView::_render() - ROOT\vendor\wyrihaximus\twig-view\src\View\TwigView.php, line 180
+Bake\View\BakeView::render() - ROOT\vendor\cakephp\bake\src\View\BakeView.php, line 146
+Bake\Shell\Task\BakeTemplateTask::generate() - ROOT\vendor\cakephp\bake\src\Shell\Task\BakeTemplateTask.php, line 89
+Bake\Shell\Task\ModelTask::bakeTable() - ROOT\vendor\cakephp\bake\src\Shell\Task\ModelTask.php, line 956
+Bake\Shell\Task\ModelTask::bake() - ROOT\vendor\cakephp\bake\src\Shell\Task\ModelTask.php, line 114
+Bake\Shell\Task\ModelTask::main() - ROOT\vendor\cakephp\bake\src\Shell\Task\ModelTask.php, line 100
+Cake\Console\Shell::runCommand() - CORE\src\Console\Shell.php, line 507
+Cake\Console\Shell::runCommand() - CORE\src\Console\Shell.php, line 500
+Cake\Console\CommandRunner::run() - CORE\src\Console\CommandRunner.php, line 141
+[main] - ROOT\bin\cake.php, line 12
+
+
+
+2018-08-24 18:13:39 Notice: Notice (8): Undefined index: Organs in [F:\www\aguaparatodos\vendor\cakephp\bake\src\View\Helper\DocBlockHelper.php, line 238]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 153
+Bake\View\Helper\DocBlockHelper::buildTableAnnotations() - ROOT\vendor\cakephp\bake\src\View\Helper\DocBlockHelper.php, line 238
+Twig_Template::getAttribute() - ROOT\vendor\twig\twig\lib\Twig\Template.php, line 679
+__TwigTemplate_530d3675ab6ce404acc3a2b19b907e117c9b0fb3331db85cec4b56ec1471f27b::doDisplay() - ROOT\tmp\cache\twigView\fe\fe343130225d4161df2ac3cdf0679656594da7b6abd2b4383bf9fcf26ba1f8d8.php, line 19
+Twig_Template::displayWithErrorHandling() - ROOT\vendor\twig\twig\lib\Twig\Template.php, line 432
+Twig_Template::display() - ROOT\vendor\twig\twig\lib\Twig\Template.php, line 403
+Twig_Template::render() - ROOT\vendor\twig\twig\lib\Twig\Template.php, line 411
+WyriHaximus\TwigView\View\TwigView::_render() - ROOT\vendor\wyrihaximus\twig-view\src\View\TwigView.php, line 180
+Bake\View\BakeView::render() - ROOT\vendor\cakephp\bake\src\View\BakeView.php, line 146
+Bake\Shell\Task\BakeTemplateTask::generate() - ROOT\vendor\cakephp\bake\src\Shell\Task\BakeTemplateTask.php, line 89
+Bake\Shell\Task\ModelTask::bakeTable() - ROOT\vendor\cakephp\bake\src\Shell\Task\ModelTask.php, line 956
+Bake\Shell\Task\ModelTask::bake() - ROOT\vendor\cakephp\bake\src\Shell\Task\ModelTask.php, line 114
+Bake\Shell\Task\ModelTask::main() - ROOT\vendor\cakephp\bake\src\Shell\Task\ModelTask.php, line 100
+Cake\Console\Shell::runCommand() - CORE\src\Console\Shell.php, line 507
+Cake\Console\Shell::runCommand() - CORE\src\Console\Shell.php, line 500
+Cake\Console\CommandRunner::run() - CORE\src\Console\CommandRunner.php, line 141
+[main] - ROOT\bin\cake.php, line 12
+
+
+

@@ -1,0 +1,77 @@
+.only_credit_card {
+    margin-left: auto;
+    margin-right: auto
+}
+
+.only_credit_card input[type=text] {
+    padding-left: 36px
+}
+
+.only_credit_card .cc_error {
+    display: none
+}
+
+.only_credit_card.has-error .cc_error {
+    display: block
+}
+
+.only_credit_card .form-group {
+    position: relative
+}
+
+.only_credit_card .form-group .icon {
+    position: absolute;
+    left: 7px;
+    top: 5px;
+    width: 22px;
+    height: 22px;
+    z-index: 1000;
+    -webkit-transition: background-position 0.2s ease-in;
+    -moz-transition: background-position 0.2s ease-in;
+    -o-transition: background-position 0.2s ease-in;
+    transition: background-position 0.2s ease-in
+}
+
+.only_credit_card .credit_card_name_type {
+    background: url("/assets/ccic-name-c56c1e5d374e86db9997dd859a630140.png")
+}
+
+.only_credit_card .credit_card_expiration_type {
+    background: url("/assets/ccic-exp-f1b3017619a90ffa11fa04b60ddac6d0.png")
+}
+
+.only_credit_card .credit_card_type {
+    background: url("/assets/ccic-brands-7930d7942846ad2ed95705b8d396999d.png")
+}
+
+.only_credit_card .credit_card_type {
+    background: url("/assets/ccic-brands-7930d7942846ad2ed95705b8d396999d.png")
+}
+
+.only_credit_card.visa .credit_card_type {
+    background-position: 0px -22px
+}
+
+.only_credit_card.mastercard .credit_card_type {
+    background-position: 0px -66px
+}
+
+.only_credit_card.amex .credit_card_type {
+    background-position: 0px -110px
+}
+
+.only_credit_card.diners .credit_card_type {
+    background-position: 0px -88px
+}
+
+.only_credit_card.elo .credit_card_type {
+    background-position: 0px -131px
+}
+
+.only_credit_card .credit_card_cvv_type {
+    background: url("/assets/ccic-cvv-5c47fceb05f784c1a16e6994b7c69230.png")
+}
+
+.only_credit_card.amex .credit_card_cvv_type {
+    background-position: 0px -22px
+}
