@@ -2,7 +2,7 @@
     <div class="login row valign-wrapper">
         <div class="col s12 m4 login-inner z-depth-1">
             <div class="login-inner-title row text-center">
-                <h3>Aplicacação de Avaliação</h3>
+                <h3>Aplicação de Avaliação</h3>
                 <small>CRUD básico em PHP usando CakePHP e Boostrap. Para email use (master@master.com) e senha use(master) </small>
             </div>
             <div class="col s12 m12">
